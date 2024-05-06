@@ -39,7 +39,7 @@ Note: i will put this on pypy sometime soonish
 To install from source with pip:
 
 ```bash
-$ python -m pip install git+https://github.com/msemple1111/pytube
+$ python -m pip install git+https://github.com/intexcor/pytube-async-temp-path
 ```
 
 on windows, open cmd.exe and run:
