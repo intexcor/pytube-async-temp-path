@@ -44,7 +44,7 @@ $ python -m pip install git+https://github.com/msemple1111/pytube
 
 on windows, open cmd.exe and run:
 ```bash
-py -m pip install git+https://github.com/msemple1111/pytube
+py -m pip install git+https://github.com/intexcor/pytube-async-temp-path
 ```
 
 ## Description
